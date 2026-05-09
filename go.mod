@@ -4,10 +4,10 @@ go 1.25.0
 
 require (
 	fyne.io/fyne/v2 v2.7.3
-	github.com/schollz/croc/v10 v10.4.1
+	github.com/schollz/croc/v10 v10.4.3
 	github.com/schollz/logger v1.2.0
 	github.com/ulikunitz/xz v0.5.12
-	golang.org/x/text v0.34.0
+	golang.org/x/text v0.36.0
 )
 
 require (
@@ -35,7 +35,7 @@ require (
 	github.com/kalafut/imohash v1.1.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/magisterquis/connectproxy v0.0.0-20200725203833-3582e84f0c9b // indirect
-	github.com/minio/highwayhash v1.0.3 // indirect
+	github.com/minio/highwayhash v1.0.4 // indirect
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db // indirect
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/nicksnyder/go-i18n/v2 v2.5.1 // indirect
@@ -53,11 +53,11 @@ require (
 	github.com/tscholl2/siec v0.0.0-20240310163802-c2c6f6198406 // indirect
 	github.com/twmb/murmur3 v1.1.8 // indirect
 	github.com/yuin/goldmark v1.7.8 // indirect
-	golang.org/x/crypto v0.48.0 // indirect
+	golang.org/x/crypto v0.50.0 // indirect
 	golang.org/x/image v0.24.0 // indirect
-	golang.org/x/net v0.51.0 // indirect
-	golang.org/x/sys v0.41.0 // indirect
-	golang.org/x/term v0.40.0 // indirect
-	golang.org/x/time v0.14.0 // indirect
+	golang.org/x/net v0.53.0 // indirect
+	golang.org/x/sys v0.43.0 // indirect
+	golang.org/x/term v0.42.0 // indirect
+	golang.org/x/time v0.15.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
